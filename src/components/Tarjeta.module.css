@@ -1,0 +1,19 @@
+.nombre {
+  background-color: black;
+  color: white;
+}
+
+.Bueno {
+  background-color: green;
+  color: white;
+}
+
+.Regular {
+  background-color: yellow;
+  color: white;
+}
+
+.Malo {
+  background-color: gray;
+  color: white;
+}
